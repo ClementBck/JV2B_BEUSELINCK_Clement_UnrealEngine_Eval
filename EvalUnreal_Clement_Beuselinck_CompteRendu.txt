@@ -1,0 +1,10 @@
+Un des éléments principaux sur lequel j'ai passé un peu de temps est le canon, je voulais principalement tester si il était possible
+de rapidement créer un objet qui génère des obstacles usant de la physique.
+
+J'ai pu aussi me rendre compte que je rencontrais des difficultés pour interagir avec l'UI, chose que je devrais retravailler donc par la suite.
+
+Un de mes objectif  était également de faire un ascenseur mais je n'ai pas pû à cause du temps perdu sur les problèmes d'UI
+
+Les déplacements auraient pû être rendu plus agréable en modifiant la friction en l'air dans le CharacterMovement.
+
+Dans l'ensemble assez satisfait de mon rendu final bien que de nombreuse choses supplémentaire aurait pu être ajoutée si je n'avais pas perdu de temps sur l'UI.
